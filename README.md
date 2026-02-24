@@ -31,11 +31,14 @@ Auto editing (90% accuracy) · Auto sound design · Script generation via multim
 TypeScript · Python · Rust · React · Tauri · Flask · FastAPI · LangGraph · Docker · RunPod
 ```
 
-<a href="https://github.com/deandevz/king-context">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deandevz&repo=king-context&theme=radical&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/deandevz/Spectra">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deandevz&repo=Spectra&theme=radical&hide_border=true&bg_color=0d1117" />
-</a>
+**Open Source**
+
+[![king-context](https://img.shields.io/badge/king--context-Open%20source%20Context7%20alternative%20with%203x%20token%20efficiency-0d1117?style=flat-square&logo=python&logoColor=white)](https://github.com/deandevz/king-context)
+![Stars](https://img.shields.io/github/stars/deandevz/king-context?style=flat-square&color=yellow&label=stars)
+![Forks](https://img.shields.io/github/forks/deandevz/king-context?style=flat-square&color=blue&label=forks)
+
+[![Spectra](https://img.shields.io/badge/Spectra-Multi--perspective%20research%20with%20structured%20debate-0d1117?style=flat-square&logo=python&logoColor=white)](https://github.com/deandevz/Spectra)
+![Stars](https://img.shields.io/github/stars/deandevz/Spectra?style=flat-square&color=yellow&label=stars)
+![Forks](https://img.shields.io/github/forks/deandevz/Spectra?style=flat-square&color=blue&label=forks)
 
 </div>
