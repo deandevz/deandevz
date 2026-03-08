@@ -4,7 +4,8 @@
 
 Founder King Dean Prod LLC & Solo Developer · 24 · CDE
 
-I build integrated AI ecosystems for content production at scale.<br>
+I build integrated AI ecosystems for content production at scale.
+
 $3M+ revenue · 300+ hours of automated content · started June 2024.
 
 </div>
@@ -17,35 +18,56 @@ $3M+ revenue · 300+ hours of automated content · started June 2024.
 <tr>
 <td>
 
-![KingFlow](https://img.shields.io/badge/KingFlow-blueviolet?style=flat-square) Operational ecosystem for content teams. Kanban with workflow engine, AI agents, collaborative docs, plugin system, gamification layer, and desktop runtime.
+![KingFlow](https://img.shields.io/badge/KingFlow-blueviolet?style=flat-square) Operational ecosystem for content teams. Project management, workflow automation, AI agents, collaborative docs, plugins, and desktop app.
 
 </td>
 </tr>
 <tr>
 <td>
 
-![KingAI](https://img.shields.io/badge/KingAI-blue?style=flat-square) AI that operates inside the workflow. Real tool calling, creates cards, manages teams, multi-model with streaming.
+![KingAI](https://img.shields.io/badge/KingAI-blue?style=flat-square) AI assistant that lives inside the workflow. Executes real actions, manages tasks and teams, multiple AI models.
 
 </td>
 </tr>
 <tr>
 <td>
 
-![KingCode](https://img.shields.io/badge/KingCode-brightgreen?style=flat-square) AI-powered dev CLI. Multi-provider orchestration, pipelines, sub-agents, 20+ tools, skills-as-code.
+![KingCode](https://img.shields.io/badge/KingCode-brightgreen?style=flat-square) AI-powered dev tool. Multi-provider, autonomous pipelines, extensible with custom skills.
 
 </td>
 </tr>
 <tr>
 <td>
 
-![King Rosetta](https://img.shields.io/badge/King%20Rosetta-orange?style=flat-square) System-level translation app (Tauri + Rust). Global hotkey, works in any macOS app, multi-model.
+![King Lopper](https://img.shields.io/badge/King%20Lopper-ff6f00?style=flat-square) Autonomous implementation engine. Architecture docs in, production code out. Structured review loop, progress memory, auto-commit.
 
 </td>
 </tr>
 <tr>
 <td>
 
-![King Cloud](https://img.shields.io/badge/King%20Cloud-critical?style=flat-square) Identity & infrastructure layer. OAuth, API proxy, secrets, SDKs. One integration = full stack.
+![King Steel Browsing](https://img.shields.io/badge/King%20Steel%20Browsing-333333?style=flat-square) Stealth scraping infrastructure. Anti-detection browsing, human behavior simulation, distributed workers, auto-scaling.
+
+</td>
+</tr>
+<tr>
+<td>
+
+![Comics Studio](https://img.shields.io/badge/Comics%20Studio-e91e63?style=flat-square) Full production pipeline for comics and manga recap videos. Upload, AI script generation, narration, editorial review, and video rendering. KingFlow plugin.
+
+</td>
+</tr>
+<tr>
+<td>
+
+![King Rosetta](https://img.shields.io/badge/King%20Rosetta-orange?style=flat-square) System-level translation app. Global hotkey, works in any macOS app, multiple AI models.
+
+</td>
+</tr>
+<tr>
+<td>
+
+![King Cloud](https://img.shields.io/badge/King%20Cloud-critical?style=flat-square) Identity & infrastructure layer. Auth, API gateway, secrets management. One integration connects everything.
 
 </td>
 </tr>
@@ -53,7 +75,7 @@ $3M+ revenue · 300+ hours of automated content · started June 2024.
 
 **Production tools generating revenue:**
 
-Auto editing (90% accuracy) · Auto sound design · Script generation via multimodal RAG · Voice conversion (RVC serverless) · Auto translation · MangaStudio (multi-agent manga creation) · ElevenLabs cost optimization etc..
+Auto editing (90% accuracy) · Auto sound design · Auto-SFX (automated sound effects placement on videos) · Script generation · Voice conversion · Auto translation · MangaStudio (AI manga creation) · ElevenLabs cost optimization etc..
 
 ---
 
