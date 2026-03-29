@@ -29,6 +29,15 @@ $3M+ revenue · 300+ hours of automated content · started June 2024.
 
 </td>
 </tr>
+
+<tr>
+<td>
+
+![Batch Images](https://img.shields.io/badge/Batch%20Images-ff1744?style=flat-square) Full image studio as a KingFlow plugin. Custom model architecture for generation, inpainting, batch editing, upscaling. AI agent workflows, on par or above top market models.
+
+</td>
+</tr>
+
 <tr>
 <td>
 
