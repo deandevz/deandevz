@@ -74,6 +74,10 @@ Custom model architecture for generation, inpainting, batch editing & upscaling.
 <br/>
 Full pipeline for comics & manga recap videos — upload, AI script, narration, editorial review & rendering.
 
+<a href="#"><img src="https://img.shields.io/badge/KingStudio-TTS_Studio-8B5CF6?style=for-the-badge&logoColor=white" /></a>
+<br/>
+User-friendly studio for mass-scale, scalable TTS audio generation — multi-voice projects, batch processing & production-ready output.
+
 <br/>
 
 ### <img src="https://img.shields.io/badge/--333333?style=flat-square&logo=serverless&logoColor=white" height="18" /> &nbsp;Infrastructure
@@ -164,15 +168,6 @@ Anti-detection browsing, human behavior simulation, distributed workers & auto-s
 
 <div align="center">
 
-<a href="https://github.com/deandevz">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=deandevz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C3CE1&icon_color=3B82F6&text_color=c9d1d9&ring_color=6C3CE1" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/deandevz">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deandevz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C3CE1&text_color=c9d1d9&langs_count=8" />
-</a>
-
-<br/><br/>
 
 <a href="https://github.com/deandevz">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=deandevz&theme=tokyonight&hide_border=true&background=0D1117&ring=6C3CE1&fire=F59E0B&currStreakLabel=6C3CE1&sideLabels=c9d1d9&dates=555555" />
