@@ -6,7 +6,7 @@ Building integrated AI ecosystems for content at scale 🫡
 ## What I'm Building
 - **King-Context** - A retrieval layer for AI agents
 - **KingFlow** - Workflow automation, AI agents, plugins & desktop app for content teams
-- **King Driven** — Full dev harness (GUI + CLI) tuned for high-quality AI coding
+- **King Driven** - Full dev harness (GUI + CLI) tuned for high-quality AI coding
 
 **Languages**
 
