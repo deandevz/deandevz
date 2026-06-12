@@ -7,7 +7,7 @@ Building integrated AI ecosystems for content at scale 🫡
 - **King-Context** - A retrieval layer for AI agents. (refactoring to another language with even better functionality for AI agents)
 - **KingFlow** - Workflow automation, AI agents, plugins & desktop app for content teams. (Internal use. King Dean Prod LLC)
 - **King Driven** - Full dev harness (GUI + CLI) tuned for high-quality AI coding.
-- **KingSDD** - is a Spec Driven Development framework that turns a raw feature idea into a tested implementation through one workflow. (Open source soon)
+- **KingSDD** - Spec Driven Development framework that turns a raw feature idea into a tested implementation through one workflow. (Open source soon)
 
 **Languages**
 
